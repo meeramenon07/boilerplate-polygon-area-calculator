@@ -1,4 +1,3 @@
-
 class Rectangle:
     def __init__(self, width, height):
       self.width = width
@@ -45,8 +44,3 @@ class Square(Rectangle):
     def set_side(self, side):
       self.width = side
       self.height = side
-
-
-
-
-
